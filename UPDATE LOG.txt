@@ -1,0 +1,75 @@
+==========================================================================
+========================UPDATE LOG========================================
+==========================================================================
+1.021
+Fixed a logic error that called for oda bonus 3
+
+1.020
+Fixed a small error with 'full randomization'
+
+1.019
+Added an option to 'fully randomize'. Including logic. All option (minus randomize ROM) are considered!
+
+1.018
+Fixed logic. There is no need to check the spoiler log now! Existing seeds MAY be different.
+
+1.017
+Upgraded my version checker
+Also added a warning
+
+1.016
+Fixed wrong colors in dark levels like loopy lights
+
+1.015
+Improved version check
+
+1.014
+Fixed minor color bug.
+
+1.013
+Adds a feature that tells you if you are running an outdated version.
+
+1.012
+At least 1 boss behind an animal token
+
+1.011
+Removed some dev features I left in
+
+1.010
+Spoiler log additions (now shows Cranky hints)
+
+1.009
+Spoiler log fixes and mcc/lumo glitch fix
+
+1.008
+Quick deaths
+
+1.0071
+Object blinking fix and HUD fix
+
+1.007
+Logic fix
+
+1.006
+Spoiler log fix
+
+1.005
+Added various constants and fixed the move in 4-1
+
+1.0042
+Integrate boss tracker and changed HUD
+
+1.0041
+Added world number to the HUD
+
+1.004
+Fixed a minor hiccup and added Tokens to the spoiler log
+
+1.003
+Fixed Mcc glitch (exit leads to Mcc warp)
+
+1.002
+Added various spoiler log features
+
+1.001
+Fixed *bosses not found* glitch
